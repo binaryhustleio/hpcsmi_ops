@@ -1,0 +1,7 @@
+numpy>=1.21.0
+torch>=2.0.0
+tensorflow>=2.8.0
+prometheus-client>=0.14.0
+psutil>=5.9.0
+py3nvml>=0.2.7
+pynvml>=11.0.0 
